@@ -1,0 +1,5 @@
+{
+  "name": "Copy of QuantumEdge Signal AI",
+  "description": "An AI-powered binary options trading assistant that analyzes chart images for 1-minute OTC markets to provide CALL or PUT signals with detailed reasoning.",
+  "requestFramePermissions": []
+}
